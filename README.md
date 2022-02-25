@@ -1,3 +1,1 @@
-Oi :) - 
-Sou estudante de TI no Insituto Federal de São Paulo - 
-Programo principalmente em C# mas também sei fazer algumas coisinhas em JS e Java
+Oi :) - Sou estudante do Intituto Federal de Sâo Paulo (IFSP), sei programar algumas coisas em C#, Java, Rust e C++ (Ainda estudando todas elas). 
